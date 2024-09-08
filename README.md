@@ -11,10 +11,7 @@ These instructions explain how to run the project on your local machine.
 You will need the following Python libraries to run this project:
 
 ```
-pip install selenium
-pip install requests
-pip install fernet
-pip install cryptography
+pip install -r requirements.txt
 ```
 
 You will also need to download WebDriver for the Google Chrome browser and add it to your PATH environment variable.
